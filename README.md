@@ -1,5 +1,6 @@
 # elevate-labs-task7
-🖼️ Image Resizer Tool
+# 🖼️ Image Resizer Tool
+
 🎯 Objective
 Automatically resize and convert multiple images in a folder using Python.
 This script helps you save time by processing all images at once — ideal for batch resizing before uploads or optimization tasks.
